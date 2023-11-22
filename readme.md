@@ -5,7 +5,7 @@ by [@alexgcsa](https://twitter.com/alexgcsa) and [@proteinmechanic](https://twit
 
 ## Main Colab Notebook
 The main material can be accessed via Google Colab Notebook:
-- [Understanding Support Vector Classifier (SVC)](https://colab.research.google.com/github/alexgcsa/resbaz2023/blob/master/SVC.ipynb)
+- [Introduction to Support Vector Classifier (SVC)](https://colab.research.google.com/github/alexgcsa/resbaz2023/blob/master/Intro_to_SVC.ipynb)
 
 
 
